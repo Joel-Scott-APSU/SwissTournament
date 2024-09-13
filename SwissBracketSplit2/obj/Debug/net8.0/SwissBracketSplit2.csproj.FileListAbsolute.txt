@@ -1,0 +1,15 @@
+C:\Users\Joel\source\repos\SwissBracketSplit2\SwissBracketSplit2\bin\Debug\net8.0\SwissBracketSplit2.exe
+C:\Users\Joel\source\repos\SwissBracketSplit2\SwissBracketSplit2\bin\Debug\net8.0\SwissBracketSplit2.deps.json
+C:\Users\Joel\source\repos\SwissBracketSplit2\SwissBracketSplit2\bin\Debug\net8.0\SwissBracketSplit2.runtimeconfig.json
+C:\Users\Joel\source\repos\SwissBracketSplit2\SwissBracketSplit2\bin\Debug\net8.0\SwissBracketSplit2.dll
+C:\Users\Joel\source\repos\SwissBracketSplit2\SwissBracketSplit2\bin\Debug\net8.0\SwissBracketSplit2.pdb
+C:\Users\Joel\source\repos\SwissBracketSplit2\SwissBracketSplit2\obj\Debug\net8.0\SwissBracketSplit2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joel\source\repos\SwissBracketSplit2\SwissBracketSplit2\obj\Debug\net8.0\SwissBracketSplit2.AssemblyInfoInputs.cache
+C:\Users\Joel\source\repos\SwissBracketSplit2\SwissBracketSplit2\obj\Debug\net8.0\SwissBracketSplit2.AssemblyInfo.cs
+C:\Users\Joel\source\repos\SwissBracketSplit2\SwissBracketSplit2\obj\Debug\net8.0\SwissBracketSplit2.csproj.CoreCompileInputs.cache
+C:\Users\Joel\source\repos\SwissBracketSplit2\SwissBracketSplit2\obj\Debug\net8.0\SwissBracketSplit2.sourcelink.json
+C:\Users\Joel\source\repos\SwissBracketSplit2\SwissBracketSplit2\obj\Debug\net8.0\SwissBracketSplit2.dll
+C:\Users\Joel\source\repos\SwissBracketSplit2\SwissBracketSplit2\obj\Debug\net8.0\refint\SwissBracketSplit2.dll
+C:\Users\Joel\source\repos\SwissBracketSplit2\SwissBracketSplit2\obj\Debug\net8.0\SwissBracketSplit2.pdb
+C:\Users\Joel\source\repos\SwissBracketSplit2\SwissBracketSplit2\obj\Debug\net8.0\SwissBracketSplit2.genruntimeconfig.cache
+C:\Users\Joel\source\repos\SwissBracketSplit2\SwissBracketSplit2\obj\Debug\net8.0\ref\SwissBracketSplit2.dll
